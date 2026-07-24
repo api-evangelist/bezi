@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of Bezi hosts
+host: https://www.bezi.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+# docs.bezi.com probed for the same five paths; all returned 404.
+# No /.well-known discovery surface published (expected: Bezi ships an in-editor
+# Unity assistant, not a public HTTP API).

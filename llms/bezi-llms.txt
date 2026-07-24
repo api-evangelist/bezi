@@ -1,0 +1,47 @@
+# Bezi
+
+## Docs
+
+- [Billing](https://docs.bezi.com/account/billing.md)
+- [Plans and Credits](https://docs.bezi.com/account/plans.md)
+- [Teams](https://docs.bezi.com/account/team.md)
+- [Connections](https://docs.bezi.com/context/connections.md)
+- [Image Attachments](https://docs.bezi.com/context/image-attachments.md)
+- [Project Context](https://docs.bezi.com/context/index-project.md)
+- [MCP ](https://docs.bezi.com/context/mcp.md)
+- [Shared and Private Pages](https://docs.bezi.com/context/pages.md)
+- [@ Pins](https://docs.bezi.com/context/pins.md)
+- [Workspace Rules](https://docs.bezi.com/context/rules.md)
+- [Development](https://docs.bezi.com/development.md): Preview changes locally to update your docs
+- [Agent Mode](https://docs.bezi.com/fundamentals/agent-mode.md)
+- [Ask Mode](https://docs.bezi.com/fundamentals/ask-mode.md)
+- [Model Selection](https://docs.bezi.com/fundamentals/model-selection.md)
+- [Plan Mode](https://docs.bezi.com/fundamentals/plan-mode.md)
+- [Prompting Best practices  ](https://docs.bezi.com/fundamentals/prompting.md)
+- [Skills](https://docs.bezi.com/fundamentals/skills.md)
+- [Team Workspaces](https://docs.bezi.com/fundamentals/team-workspaces.md)
+- [Threads](https://docs.bezi.com/fundamentals/threads.md)
+- [Workspaces](https://docs.bezi.com/fundamentals/workspaces.md)
+- [Changelog](https://docs.bezi.com/get-started/changelog.md)
+- [Quickstart](https://docs.bezi.com/get-started/quickstart.md)
+- [Security](https://docs.bezi.com/get-started/security.md)
+- [Troubleshooting](https://docs.bezi.com/get-started/troubleshooting.md)
+- [Welcome](https://docs.bezi.com/get-started/welcome.md)
+- [Canvas](https://docs.bezi.com/more/canvas.md)
+- [Edit Past Prompts](https://docs.bezi.com/more/edit-prompts.md): Modify prompts after the fact to include new information or redirect Bezi's focus
+- [Enhanced Code Intelligence](https://docs.bezi.com/more/enhanced-code-intelligence.md): Access Bezi's enhanced code editing capabilities
+- [Prompt Guide](https://docs.bezi.com/more/prompt-guide.md): How to prompt Bezi to get the best results.
+- [Quickstart](https://docs.bezi.com/quickstart.md): Start building awesome documentation in under 5 minutes
+- [Create UI](https://docs.bezi.com/use-cases/create-ui.md)
+- [Debugging](https://docs.bezi.com/use-cases/debug.md)
+- [Document and Explain Projects](https://docs.bezi.com/use-cases/documentation.md): Onboard to a new project and get custom documentation in a heartbeat.
+- [Auto-Create Unity Tools](https://docs.bezi.com/use-cases/old-custom-tools.md): Create custom Unity tools in minutes, without writing any code.
+- [Learn Unity ](https://docs.bezi.com/use-cases/old-learning.md): Ask Bezi to explain a concept or how to do something and save hours searching through Stack Overflow, Reddit, and uncommented code.
+- [Rapid Prototyping](https://docs.bezi.com/use-cases/prototype-iterate.md)
+- [Create Unity Tools](https://docs.bezi.com/use-cases/unity-tools.md)
+- [Delete Plant](https://docs.bezi.com/x-api-reference/endpoint/delete.md): Deletes a single plant based on the ID supplied
+- [Get Plants](https://docs.bezi.com/x-api-reference/endpoint/get.md): Returns all plants from the system that the user has access to
+
+## OpenAPI Specs
+
+- [openapi](https://docs.bezi.com/x-api-reference/openapi.json)

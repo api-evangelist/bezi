@@ -1,0 +1,32 @@
+generated: '2026-07-18'
+method: searched
+source: https://docs.bezi.com/get-started/changelog
+scheme: dated-updates
+current_app_version: v1.92.2
+current_plugin_version: v0.98.13
+entries:
+- date: '2026-07-14'
+  breaking: false
+  additions:
+  - "New GPT models: Luna, Sol, Terra"
+  - "New featured MCP connections: Blender, Miro, Perforce, Trello"
+  highlights:
+  - "Improved grep search performance"
+  - "Real-time collaborative pages performance and session-expiry fixes"
+  - "Numerous Unity plugin bug fixes (Play Mode, prefab save, scene restore)"
+- date: '2026-07-01'
+  breaking: false
+  additions:
+  - "Skills: package repetitive multi-step workflows into a single command (default + custom skills)"
+  - "Direct model selection menu; added GLM 5.2 and Claude Sonnet 5 models"
+  highlights:
+  - "Redesigned Home for managing workspaces, projects and skills"
+  - "Detailed token/plan usage view; improved MCP tool serialization"
+- date: '2026-06-23'
+  breaking: false
+  additions:
+  - "Real-time collaborative Shared Pages (Teams) with live cursors and auto-merge"
+  highlights:
+  - "Frontier model now uses Opus 4.8; context window expanded 2x"
+  - "Outstanding payments invoiced before new subscription can be created"
+notes: "Changelog is a dated Update stream (Mintlify docs). Recent window captured; live page is source of truth."

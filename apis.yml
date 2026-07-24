@@ -1,8 +1,26 @@
 aid: bezi
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bezi.png
 name: Bezi
-description: 'Bezi is a company surfaced as a portfolio company of bessemer-venture-partners, uncork-capital
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai-ml. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Bezi is an AI agent for Unity game developers that runs directly inside the Unity Editor.
+  It indexes a project''s scripts, assets, scenes, packages and documentation in real time to deliver
+  context-aware debugging, code generation, shader creation, scene building and no-code Unity tool
+  automation that follows each project''s own conventions. Bezi supports multiple frontier models
+  (Claude Sonnet, GPT, GLM and others), a Skills system for packaging repeatable workflows, MCP
+  connections for external context (Blender, Miro, Notion, Perforce and more), and real-time
+  collaborative team workspaces. The company is SOC 2 Type II certified and backed by Bessemer Venture
+  Partners and Uncork Capital. Bezi ships an in-editor product and desktop/plugin experience rather
+  than a public HTTP API.'
 url: https://raw.githubusercontent.com/api-evangelist/bezi/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +31,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Ai Ml
+- Game Development
+- Unity
+- Developer Tools
+- AI Agent
+- Coding Assistant
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +49,44 @@ maintainers:
 common:
 - type: Website
   url: https://www.bezi.com/
+- type: DeveloperPortal
+  url: https://docs.bezi.com/
+- type: Documentation
+  url: https://docs.bezi.com/get-started/welcome
+- type: GettingStarted
+  url: https://docs.bezi.com/get-started/quickstart
+- type: Quickstart
+  url: https://docs.bezi.com/get-started/quickstart
+- type: Blog
+  url: https://www.bezi.com/blog
+- type: Pricing
+  url: https://www.bezi.com/pricing
+- type: SignUp
+  url: https://www.bezi.com/
+- type: Support
+  url: https://discord.com/invite/bezi
+- type: GitHubOrganization
+  url: https://github.com/bezi3d
+- type: TermsOfService
+  url: https://www.bezi.com/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.bezi.com/privacy-policy
+- type: ChangeLog
+  url: changelog/bezi-changelog.yml
+- type: LLMsTxt
+  url: llms/bezi-llms.txt
+- type: DomainSecurity
+  url: security/bezi-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/bezi-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.bezi.com/security
+- type: Conformance
+  url: conformance/bezi-conformance.yml
+- type: Compliance
+  url: https://www.bezi.com/security
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
