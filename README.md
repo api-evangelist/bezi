@@ -64,6 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bezi is a company surfaced as a portfolio company of bessemer-venture-partners, uncork-capital and added to the API Evangelist network as a stub for enrichment. Sector: ai-ml. This profile is a lead awaiting the enrichment pipeline.
+Bezi is an AI agent for Unity game developers that runs directly inside the Unity Editor. It indexes a project's scripts, assets, scenes, packages and documentation in real time to deliver context-aware debugging, code generation, shader creation, scene building and no-code Unity tool automation that follows each project's own conventions. Bezi supports multiple frontier models (Claude Sonnet, GPT, GLM and others), a Skills system for packaging repeatable workflows, MCP connections for external context (Blender, Miro, Notion, Perforce and more), and real-time collaborative team workspaces. The company is SOC 2 Type II certified and backed by Bessemer Venture Partners and Uncork Capital. Bezi ships an in-editor product and desktop/plugin experience rather than a public HTTP API.
 
-Backed by: bessemer-venture-partners, uncork-capital — https://www.bezi.com/
+**Areas:** Company · Artificial Intelligence · Game Development · Unity · Developer Tools · AI Agents · Coding Assistant
+
+## Bezi on APIs.io
+
+Everything profiled for Bezi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bezi/](https://apis.io/providers/bezi/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [Moved to /providers/bezi/](https://apis.io/servers/bezi/bezi/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bezi Domain Security](https://apis.io/security/bezi/bezi-domain-security/)
+- [Bezi Vulnerability Disclosure](https://apis.io/security/bezi/bezi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bezi.com/)
+- [Documentation](https://docs.bezi.com/get-started/welcome)
+- [Getting started](https://docs.bezi.com/get-started/quickstart)
+- [Pricing](https://www.bezi.com/pricing)
+- [Sign up](https://www.bezi.com/)
+- [Support](https://discord.com/invite/bezi)
+- [Blog](https://www.bezi.com/blog)
+- [Security](https://www.bezi.com/security)
+- [Compliance](https://www.bezi.com/security)
+- [Terms of service](https://www.bezi.com/terms-of-service)
+- [Privacy policy](https://www.bezi.com/privacy-policy)
+- [GitHub](https://github.com/bezi3d)
+
+## API Evangelist rating
+
+**Kin Score 31.7** — thin · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 52.6 |
+
+**Agent readiness 8.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bezi/](https://apis.io/providers/bezi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bezi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bezi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
